@@ -183,7 +183,7 @@ namespace Lab4
 
 
             Console.WriteLine("КРОК 4 (Денормалізація результату):");
-            //sum.CheckNormalization();
+            sum.CheckNormalization();
             Console.WriteLine($"Результат після нормалізування: {sum}");
 
 
